@@ -1,4 +1,3 @@
-Description:
 This repository contains templates for FiveM cars, both as addons and replacements. The templates are organized into two folders in the RAR file. To get started, simply extract the RAR file and enjoy using the templates for your FiveM server.
 
 How to Use:
